@@ -1,8 +1,7 @@
-![mariogif](https://user-images.githubusercontent.com/106872157/215724440-9460fed9-ff26-4884-8491-f13c228d4cb2.gif)
-
 # 💫 About Me:
 💻 Hi, I'm a programmer passionate about solving problems with code. <br>🔥 I enjoy learning new technologies and constantly improving my skills. <br>🚀 Check out my GitHub for my latest projects and contributions! 👨‍💻
 
+![mariogif](https://user-images.githubusercontent.com/106872157/215724440-9460fed9-ff26-4884-8491-f13c228d4cb2.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/martingrulyo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrtngrulyo) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mrtng202) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Ldat1) 
